@@ -8,7 +8,7 @@ The project is built using HTML, CSS, Bootstrap, JavaScript, Flask, SQLite, and 
 
 1. Clone the repository:
 ```
- git clone https://github.com/Soumya-Vaidya/MeaLit-2.0.git
+ git clone https://github.com/AnushkaBhatnagar/MeaLit-2.0.git
 ```
 
 2. Navigate into the project directory
@@ -30,7 +30,7 @@ This will start the Flask development server. You can access the application by 
 
 1. 
 ```
-docker build -t mealit2.0 https://github.com/Soumya-Vaidya/MeaLit-2.0.git
+docker build -t mealit2.0 https://github.com/AnushkaBhatnagar/MeaLit-2.0.git
 ```
 
 2.
